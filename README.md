@@ -59,7 +59,7 @@ The repo includes a **high-level visual overview** of LunaPal's real system arch
 
 ## Project structure
 
-`lunapal-architecture-demo/
+```lunapal-architecture-demo/
 │
 ├─ README.md
 ├─ LICENSE
@@ -99,7 +99,7 @@ The repo includes a **high-level visual overview** of LunaPal's real system arch
 │ │
 │ └─ Home/
 │ └─ HomeView.swift # Main home view
-`
+```
 
 ---
 
