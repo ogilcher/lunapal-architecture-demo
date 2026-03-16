@@ -1,3 +1,5 @@
+📖 Article explaining the architecture:
+https://medium.com/@olivergilcher/managing-deep-navigation-in-swiftui-with-a-coordinator-architecture-8bba3fc23ceb
 
 # LunaPal Architecture Demo
 ### High-Level SwiftUI Client Sample (Coordinator + DI + Modular Features)
